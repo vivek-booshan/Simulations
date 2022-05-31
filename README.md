@@ -1,4 +1,4 @@
-# diffeq_ta_examples
+# diffeq_examples
 Just a quick handful of python programs that use differential equations.
 - fem_beam.py : basic finite element model of beam
 - heat_eqn_soln_basic.py : animated gif of the thermal behavior of a box using the heat equations
