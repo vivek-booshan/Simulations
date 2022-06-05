@@ -1,5 +1,6 @@
 # diffeq_examples
 Just a quick handful of python programs that use differential equations.
+- attractors : see folder for more
 - fem_beam.py : basic finite element model of beam
 - heat_eqn_soln_basic.py : animated gif of the thermal behavior of a box using the heat equations
 - laplace_ode_solver.ipynb : a general ODE solver using laplace transformations with step by steps shown
